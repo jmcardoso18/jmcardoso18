@@ -1,11 +1,10 @@
-# 👩‍💻 Olá, eu sou a Jamila Moraes Cardoso!  
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Ola,+sou+a+Mila!+Seja+bem+vinde+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
-💡 Desenvolvedora apaixonada por **tecnologia, aprendizado contínuo e impacto positivo através do código**.  
-🎯 Focada em **Desenvolvimento Full Stack Java** e **Sistemas Multiplataforma**.  
-🚀 Minha missão é unir **bem-estar, tecnologia e ensino** para transformar ideias em soluções que inspirem pessoas.  
-
-
-💻✨ Aprendizado + Tecnologia = Bem-estar
+💻✨ Aprendizado + Tecnologia
 
 Para mim, aprender e explorar novas tecnologias não é só uma forma de crescer profissionalmente — é um propósito de vida. Cada habilidade que adquiro me fortalece e me inspira a levar conhecimento, bem-estar e inovação não só para mim, mas para o mundo. 🚀
 
