@@ -43,13 +43,18 @@ Investir em si mesmo é o primeiro passo para inspirar e transformar os outros!
 <div align="center">
 
 <a href="https://github.com/jmcardoso18">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmcardoso18&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmcardoso18&show_icons=true&theme=tokyonight&icon_color=FF0000&text_color=FFFFFF&title_color=FF0000&bg_color=0D1117"/>
 </a>
 <a href="https://github.com/jmcardoso18">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmcardoso18&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmcardoso18&layout=compact&theme=tokyonight&icon_color=FF0000&text_color=FFFFFF&title_color=FF0000&bg_color=0D1117"/>
 </a>
 
 </div>
+
+
+
+
+
 
 <div align="center">
 <h1>🌍 Vamos nos conectar? </h1> 
