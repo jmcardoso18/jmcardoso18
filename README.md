@@ -30,16 +30,16 @@
 
 ## 🚀 Projetos em Destaque
 
-- 🔹 [Um simulador bancário](https://github.com/jmcardoso18/Conta-bancaria-gene-83)– Em desenvolvimento Java + Mysql  
-- 🔹 [Projeto Integrador - Fatec](https://github.com/jmcardoso18/PI_3Semestre_2-2025) –Aplicação web em desenvolvimento Python + Mongo + Django  
+🔹 [Um simulador bancário](https://github.com/jmcardoso18/Conta-bancaria-gene-83)– Em desenvolvimento Java + Mysql  
+🔹 [Projeto Integrador - Fatec](https://github.com/jmcardoso18/PI_3Semestre_2-2025) –Aplicação web em desenvolvimento Python + Mongo + Django  
 
 ---
 
 ## 🌍 Vamos nos conectar?
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamila-m-c/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamila-m-c/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmc18.ads@gmail.com)  
 <!-- [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge)](SEU-PORTFOLIO)  -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmc18.ads@gmail.com)  
+
 
 ---
 
