@@ -4,13 +4,15 @@
   </a>
 </div>
 
-💻✨ Aprendizado + Tecnologia
+Sou Jamila, tenho 36 anos, moro em Araras e atualmente curso Desenvolvimento de Software Multiplataforma na Fatec.
 
-Para mim, aprender e explorar novas tecnologias não é só uma forma de crescer profissionalmente — é um propósito de vida. Cada habilidade que adquiro me fortalece e me inspira a levar conhecimento, bem-estar e inovação não só para mim, mas para o mundo. 🚀
+Estou em transição de carreira. Nos últimos sete anos, atuei como Coordenadora de motoboys, uma função que me trouxe muitos aprendizados. Gostava especialmente da dinâmica imprevisível do dia a dia — cada desafio exigia raciocínio rápido, organização e capacidade de adaptação. Situações como lidar com faltas inesperadas ou resolver contratempos, como um pneu furado, me ensinaram a analisar padrões de comportamento, antecipar problemas e agir de forma estratégica, sempre buscando manter a operação eficiente.
 
-Investir em si mesmo é o primeiro passo para inspirar e transformar os outros!
+Apesar da boa remuneração, a rotina era intensa: trabalhava de segunda a segunda, muitas vezes em horários de almoço e jantar. Essa realidade me levou a retomar os estudos em TI, área pela qual sempre tive afinidade. Em 2012, iniciei Análise e Desenvolvimento de Sistemas na Fatec Indaiatuba, mas, por falta de confiança e maturidade na época, acabei desistindo. Hoje percebo que essa insegurança era infundada: entendo bem os conceitos, tenho facilidade em aprender novas linguagens e paradigmas e estou determinada a consolidar minha carreira na tecnologia.
 
-#Aprendizado #Tecnologia #BemEstar #CrescimentoPessoal #Impacto
+Para reforçar esse caminho, participei do Bootcamp da Generation Brasil, onde mais uma vez me desafiei: aprender, reaprender, ensinar e superar meus códigos anteriores.
+
+Com esse breve relato, espero ter despertado seu interesse em conhecer meu portfólio e meu LinkedIn, além de me proporcionar novos desafios que me ajudem a evoluir ainda mais.
 
 ---
 <picture align="center">
