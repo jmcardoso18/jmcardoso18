@@ -57,15 +57,17 @@ Com esse breve relato, espero ter despertado seu interesse em conhecer meu portf
 
 
 
-
 <div align="center">
-<h1>🌍 Vamos nos conectar? </h1> 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamila-m-c/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmc18.ads@gmail.com) 
-![Visitor Badge](https://img.shields.io/badge/Visitantes-000?style=for-the-badge&logo=github&logoColor=white&color=blue) 
-![GitHub followers](https://img.shields.io/badge/Seguidores-000?style=for-the-badge&logo=github&logoColor=white&color=black)  
+<h1>🌍 Vamos nos conectar?</h1>  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamila-m-c/) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmc18.ads@gmail.com) 
+[![DIO](https://img.shields.io/badge/DIO.me-White?style=for-the-badge&logo=dio&logoColor=white&color=red)](https://www.dio.me/users/jmc18_ads) 
+![Visitantes](https://komarev.com/ghpvc/?username=jmcardoso18&color=blue&style=for-the-badge) 
+![Seguidores](https://img.shields.io/github/followers/jmcardoso18?style=for-the-badge&logo=github&logoColor=white&color=000)  
 
 </div>
+
 
 ---
